@@ -7,11 +7,13 @@ public class MavenPractice2Test {
 	@Test
 	public void mavenPracticeTest1() {
 		Reporter.log("Practice1 ===> MavenPractice2Test ",true);
+		Reporter.log("Practice1 ===> MavenPractice2Test ",true);
 	}
 
 	@Test
 	public void mavenPracticeTest2() {
-		Reporter.log("Practice2 ===> MavenPractice2Test ",true);
+		Reporter.log("Practice2 ===> MavenPractice2Test ",true);			Reporter.log("Practice2 ===> MavenPractice2Test ",true);
+
 	}
 
 	@Test
