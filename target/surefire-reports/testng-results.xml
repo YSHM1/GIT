@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[Practice1 ===> MavenPractice1Test ]]>
+    </line>
+    <line>
+      <![CDATA[Practice2 ===> MavenPractice1Test ]]>
+    </line>
+    <line>
+      <![CDATA[Practice3 ===> MavenPractice1Test ]]>
+    </line>
+    <line>
+      <![CDATA[Practice1 ===> MavenPractice2Test ]]>
+    </line>
+    <line>
+      <![CDATA[Practice2 ===> MavenPractice2Test ]]>
+    </line>
+    <line>
+      <![CDATA[Practice3 ===> MavenPractice2Test ]]>
+    </line>
+    <line>
+      <![CDATA[Practice1 ===> MavenPractice3Test ]]>
+    </line>
+    <line>
+      <![CDATA[Practice2 ===> MavenPractice3Test ]]>
+    </line>
+    <line>
+      <![CDATA[Practice3 ===> MavenPractice3Test ]]>
+    </line>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="46" started-at="2022-07-26T06:03:01Z" finished-at="2022-07-26T06:03:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="46" started-at="2022-07-26T06:03:01Z" finished-at="2022-07-26T06:03:01Z">
+      <class name="org.tyss.maven_command_line_argument_practice.MavenPractice2Test">
+        <test-method status="PASS" signature="mavenPracticeTest1()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPractice2Test@4590c9c3]" name="mavenPracticeTest1" duration-ms="1" started-at="2022-07-26T11:33:01Z" finished-at="2022-07-26T11:33:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice1 ===> MavenPractice2Test ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest1 -->
+        <test-method status="PASS" signature="mavenPracticeTest2()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPractice2Test@4590c9c3]" name="mavenPracticeTest2" duration-ms="1" started-at="2022-07-26T11:33:01Z" finished-at="2022-07-26T11:33:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice2 ===> MavenPractice2Test ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest2 -->
+        <test-method status="PASS" signature="mavenPracticeTest3()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPractice2Test@4590c9c3]" name="mavenPracticeTest3" duration-ms="0" started-at="2022-07-26T11:33:01Z" finished-at="2022-07-26T11:33:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice3 ===> MavenPractice2Test ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest3 -->
+      </class> <!-- org.tyss.maven_command_line_argument_practice.MavenPractice2Test -->
+      <class name="org.tyss.maven_command_line_argument_practice.MavenPractice3Test">
+        <test-method status="PASS" signature="mavenPracticeTest1()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPractice3Test@32e6e9c3]" name="mavenPracticeTest1" duration-ms="1" started-at="2022-07-26T11:33:01Z" finished-at="2022-07-26T11:33:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice1 ===> MavenPractice3Test ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest1 -->
+        <test-method status="PASS" signature="mavenPracticeTest2()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPractice3Test@32e6e9c3]" name="mavenPracticeTest2" duration-ms="0" started-at="2022-07-26T11:33:01Z" finished-at="2022-07-26T11:33:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice2 ===> MavenPractice3Test ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest2 -->
+        <test-method status="PASS" signature="mavenPracticeTest3()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPractice3Test@32e6e9c3]" name="mavenPracticeTest3" duration-ms="1" started-at="2022-07-26T11:33:01Z" finished-at="2022-07-26T11:33:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice3 ===> MavenPractice3Test ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest3 -->
+      </class> <!-- org.tyss.maven_command_line_argument_practice.MavenPractice3Test -->
+      <class name="org.tyss.maven_command_line_argument_practice.MavenPractice1Test">
+        <test-method status="PASS" signature="mavenPracticeTest1()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPractice1Test@3c09711b]" name="mavenPracticeTest1" duration-ms="10" started-at="2022-07-26T11:33:01Z" finished-at="2022-07-26T11:33:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice1 ===> MavenPractice1Test ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest1 -->
+        <test-method status="PASS" signature="mavenPracticeTest2()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPractice1Test@3c09711b]" name="mavenPracticeTest2" duration-ms="3" started-at="2022-07-26T11:33:01Z" finished-at="2022-07-26T11:33:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice2 ===> MavenPractice1Test ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest2 -->
+        <test-method status="PASS" signature="mavenPracticeTest3()[pri:0, instance:org.tyss.maven_command_line_argument_practice.MavenPractice1Test@3c09711b]" name="mavenPracticeTest3" duration-ms="1" started-at="2022-07-26T11:33:01Z" finished-at="2022-07-26T11:33:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Practice3 ===> MavenPractice1Test ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest3 -->
+      </class> <!-- org.tyss.maven_command_line_argument_practice.MavenPractice1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
